@@ -21,5 +21,9 @@
         <module>config-server-eureka</module>
         <module>config-client-eureka</module>
         <module>config-client-eureka-bus</module>
+        <module>zipkin-server</module>
+        <module>zipkin-service-hi</module>
+        <module>zipkin-service-miya</module>
+        <module>eureka-server-ha</module>
     </modules>
 </project>

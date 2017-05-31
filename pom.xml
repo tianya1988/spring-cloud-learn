@@ -26,5 +26,6 @@
         <module>zipkin-service-miya</module>
         <module>eureka-server-ha</module>
         <module>service-hi-ha</module>
+        <module>consul-miya</module>
     </modules>
 </project>
